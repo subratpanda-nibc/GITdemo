@@ -1,6 +1,7 @@
 public with sharing class GitedemoClass {
     public GitedemoClass() {
-        string newString ;
+        String newString;
+        String gitDemoString;
         
     }
 }
