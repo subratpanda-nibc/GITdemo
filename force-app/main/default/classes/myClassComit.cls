@@ -1,5 +1,6 @@
 public with sharing class myClassComit {
     public myClassComit() {
-        string myText ;
+        String myText ;
+        String myVariable01;
     }
 }
