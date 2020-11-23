@@ -3,5 +3,6 @@ public with sharing class GitedemoClass {
         String newString;
         String gitDemoString;
         String gitDemoString1;
+        String gitDemoString2;
     }
 }
