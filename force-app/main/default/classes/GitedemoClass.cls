@@ -4,6 +4,5 @@ public with sharing class GitedemoClass {
         String gitDemoString;
         String gitDemoString1;
         String gitDemoString2;
-        String myVariable;
     }
 }
