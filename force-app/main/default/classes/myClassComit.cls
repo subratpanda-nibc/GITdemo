@@ -7,5 +7,6 @@ public with sharing class myClassComit {
         String newString;
         String newestStringAdded;
         Integer inteAddedBySubrat;
+        String variableAddedByRobert;
     }
 }
