@@ -6,5 +6,6 @@ public with sharing class GitedemoClass {
         String gitDemoString2;
         String gitDemoString3;
         Integer demoInt;
+        Boolean isThisTrue;
     }
 }
