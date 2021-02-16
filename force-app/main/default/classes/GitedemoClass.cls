@@ -5,5 +5,6 @@ public with sharing class GitedemoClass {
         String gitDemoString1;
         String gitDemoString2;
         String gitDemoString3;
+        Boolean isThisTrue;
     }
 }
